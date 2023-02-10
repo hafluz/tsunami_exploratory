@@ -3,7 +3,7 @@
 
 *  To view thenotebook with all maps properly rendered please use **[this link to NbViewer](https://nbviewer.org/github/hafluz/tsunami_exploratory/blob/main/Project_2_Tsunami_Exploratory_Data_Analysis_v2.ipynb)**
 
-#### Project Status: [Finished]
+#### Project Status: [Completed]
 
 ### Objectives:
 
