@@ -9,17 +9,18 @@
 
 
 ## Project Overview
-The main goal of this project was to understand the historical data and extract insights regarding the particular set of events that ultimately led tsunamis to occur, the dimensions and the aftermath of the events themselves.
+The main goal of this project was to better understand patterns within the historical data, detect outliers or anomalous events and find interesting relationships among the variables. Additionaly, there was an effort to extract insights regarding the most common set of events that ultimately led tsunamis to occur, and it affected the dimensions and the aftermath of the events themselves.
+ 
+**Python Code:** [`tsunami_exploratory_data_analysis.ipynb`](https://github.com/hafluz/tsunami_exploratory/blob/main/Project_2_Tsunami_Exploratory_Data_Analysis_v2.ipynb)   
 
+### Skills:
 
-### Objectives:
-
-*   Understand the data
-*   Clean the data
-*   Explore the data
-*   Identify key correlations between variables
-*   Visualize geo positioning of events
-*   Query the data and extract insights
+*   Data understanding
+*   Data preparation and cleaning
+*   Exploratory data analysis
+*   Identifying key relationships between variables
+*   Data Visualization
+*   Data Querying and extracting insights
 
 
 ### Tools employed:
@@ -30,11 +31,11 @@ The main goal of this project was to understand the historical data and extract 
 *   Matplotlib
 *   Seaborn
 *   Folium
+*   Google Cloud
 
 
 ### Data Source: 
-NOAA Tsunami Event Database \
-URL: https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-search \
+NOAA Tsunami Event Database: <https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-search>   
 BigQuery link: bigquery-public-data.noaa_tsunami.historical_source_event
 
 
@@ -43,5 +44,5 @@ Feel free to contact me with any questions or if you are interested in colaborat
 
 **Henrique Augsten**
 
-* **[Github](https://github.com/hafluz)**
-* **[LinkedIn](https://www.linkedin.com/in/henrique-augsten)**
+* **Github: [github.com/hafluz](https://github.com/hafluz)**
+* **LinkedIn: [linkedin.com/in/henrique-augsten](https://www.linkedin.com/in/henrique-augsten)**
