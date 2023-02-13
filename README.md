@@ -5,7 +5,8 @@
 
 #### Project Status: [Completed]
 
-*  To view thenotebook with all maps properly rendered please use **[this link to NbViewer](https://nbviewer.org/github/hafluz/tsunami_exploratory/blob/main/Project_2_Tsunami_Exploratory_Data_Analysis_v2.ipynb)**
+> **Note**  To view the notebook with all maps properly rendered please use **[this link to NbViewer](https://nbviewer.org/github/hafluz/tsunami_exploratory/blob/main/Project_2_Tsunami_Exploratory_Data_Analysis_v2.ipynb)**
+
 
 ### Objectives:
 
@@ -30,4 +31,4 @@
 ### Data Source: 
 NOAA Tsunami Event Database \
 URL: https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-search \
-bigquery-public-data.noaa_tsunami.historical_source_event
+BigQuery link: bigquery-public-data.noaa_tsunami.historical_source_event
