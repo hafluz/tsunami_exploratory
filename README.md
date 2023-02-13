@@ -8,6 +8,10 @@
 > **Note**  To view the notebook with all maps properly rendered please use **[this link to NbViewer](https://nbviewer.org/github/hafluz/tsunami_exploratory/blob/main/Project_2_Tsunami_Exploratory_Data_Analysis_v2.ipynb)**
 
 
+## Project Overview
+The main goal of this project was to understand the historical data and extract insights regarding the particular set of events that ultimately led tsunamis to occur, the dimensions and the aftermath of the events themselves.
+
+
 ### Objectives:
 
 *   Understand the data
