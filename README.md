@@ -1,5 +1,5 @@
 # Tsunamis Exploratory Data Analysis
-🌊 Exploratory data analysis using Pandas, Numpy, Matplotlib, Seaborn and Folium
+🌊 Exploratory data analysis of Worldwide Tsunami historical events using Pandas, Numpy, Matplotlib, Seaborn and Folium.
 
 <img width="1317" alt="Screenshot 2023-02-11 at 12 27 23" src="https://user-images.githubusercontent.com/122936255/218266767-0c348863-e6d9-4bdf-a534-9b36b17ab2a9.png">
 
