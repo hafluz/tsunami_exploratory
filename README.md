@@ -9,7 +9,8 @@
 
 
 ## Project Overview
-The main goal of this project was to better understand patterns within the historical tsunami dataset, detect outliers or anomalous events and find interesting relationships among the variables. Additionaly, there was an effort to extract insights regarding the most common set of events that ultimately led tsunamis to occur, and it affected the dimensions and the aftermath of the events themselves.
+The main goal of this project was to better understand patterns within the historical tsunami dataset, detect outliers or anomalous events and find interesting relationships among the variables. Additionally, there was an effort to extract insights regarding the most common set of events that ultimately led tsunamis to occur, and how they affected the dimensions and the aftermath of the events themselves.
+
  
 **Python Code:** [`tsunami_exploratory_data_analysis.ipynb`](https://github.com/hafluz/tsunami_exploratory/blob/main/Project_2_Tsunami_Exploratory_Data_Analysis_v2.ipynb)   
 
