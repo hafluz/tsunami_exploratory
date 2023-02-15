@@ -1,5 +1,5 @@
 # Tsunamis Exploratory Data Analysis
-🌊 Exploratory data analysis of Worldwide Tsunami historical events using Pandas, Numpy, Matplotlib, Seaborn and Folium.
+🌊 Exploratory data analysis of Global Historical Tsunami events using Pandas, Numpy, Matplotlib, Seaborn and Folium.
 
 > #### Project Status: [Completed]
 
@@ -35,8 +35,7 @@ The main goal of this project was to better understand patterns within the histo
 
 
 ### Data Source: 
-NOAA Tsunami Event Database: <https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-search>   
-BigQuery link: bigquery-public-data.noaa_tsunami.historical_source_event
+[NOAA Global Historical Tsunami Database](https://console.cloud.google.com/marketplace/details/noaa-public/tsunamis)
 
 
 ## Contact
